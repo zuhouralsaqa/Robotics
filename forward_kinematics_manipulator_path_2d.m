@@ -1,4 +1,4 @@
-% Define symbolic variables
+% draw reachable workspace
 syms theta1 theta2
 
 %% Define variables 
